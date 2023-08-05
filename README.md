@@ -228,34 +228,6 @@
 
 </details>
 
-<!-- Learn JavaScript  -->
-## Learn Reactjs
-
-<details open="open">
-  <summary>Reactjs</summary>
-  <br/>
-  
-* [Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=4UZrsTqkcW4&t=5s&ab_channel=freeCodeCamp.org)
-* [FreeCodeCamp's React Playlist on Youtube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC)
-* [Epic React by Kent C. Dodds](https://epicreact.dev)
-* [70+ open-source clones of sites like Airbnb, Tiktok, Netflix, Spotify etc](https://gourav.io/clone-wars)
-* React Testing
-  * [How to use React Testing Library Tutorial](https://www.robinwieruch.de/react-testing-library)
-  * [Kent C. Dodds blogs on testing](https://kentcdodds.com/blog/?q=testing)
-* Books
-  * [Pure React by Dave Cedia](https://daveceddia.com/pure-react)
-  * [Learning React, 2nd Edition](https://www.oreilly.com/library/view/learning-react-2nd/9781492051718)
-* Blog posts and Articles 
-  * [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
-  * [Why React Hooks?](https://ui.dev/why-react-hooks/)
-  * [Flow Control in React](https://reacttraining.com/blog/flow-control-in-react)
-  * [A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior)
-  * [TypeScript + React: Why I don't use React.FC](https://fettblog.eu/typescript-react-why-i-dont-use-react-fc/)
-  * [Not All Components Are Created Equal](https://formidable.com/blog/2021/react-components)
-  * [useState lazy initialization and function updates](https://kentcdodds.com/blog/use-state-lazy-initialization-and-function-updates)
-  * [State Colocation will make your React app faster](https://kentcdodds.com/blog/state-colocation-will-make-your-react-app-faster)
-  * [Should I useState or useReducer?](https://kentcdodds.com/blog/should-i-usestate-or-usereducer)
-</details>
 
 ---
 
